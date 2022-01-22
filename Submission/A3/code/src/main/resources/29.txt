@@ -1,0 +1,75 @@
+{
+  "totalResults": 42216,
+  "articles": [
+    {
+      "publishedAt": "2021-06-30T20:09:09Z",
+      "author": "https://www.facebook.com/bbcnews",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D255/production/_119154835_screenshot2021-06-30at11.47.28am.png",
+      "description": "Dozens have died as Canada sees a new record - 49.6C (121.3F) - for the third day in a row.",
+      "source": {
+        "name": "BBC News",
+        "id": "bbc-news"
+      },
+      "title": "Trudeau pays respects to Canada heatwave victims",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-57668738",
+      "content": "media captionWatch: Canadians say the conditions are \"unbearable\"\r\nCanadian Prime Minister Justin Trudeau has offered condolences to the dozens of people who have died in a record-setting heatwave.\r\n… [+7594 chars]"
+    }
+  ],
+  "status": "ok"
+}
+{
+  "totalResults": 76423,
+  "articles": [
+    {
+      "publishedAt": "2021-06-28T16:49:39Z",
+      "author": "Brian Heater",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/Tepper_School_of_Business-yellow.jpg?w\u003d600",
+      "description": "The math is simple: Great research universities beget great startups. Pittsburgh certainly has little want for the former, with two world-class research schools — Carnegie Mellon University and the University of Pittsburgh – located in the city. The latter hi…",
+      "source": {
+        "name": "TechCrunch",
+        "id": "techcrunch"
+      },
+      "title": "How Carnegie Mellon is helping build its own startups and keeping them in Pittsburgh",
+      "url": "http://techcrunch.com/2021/06/28/how-cmu-is-helping-build-its-own-startups-and-keeping-them-in-pittsburgh/",
+      "content": "The math is simple: Great research universities beget great startups. Pittsburgh certainly has little want for the former, with two world-class research schools — Carnegie Mellon University and the U… [+5744 chars]"
+    }
+  ],
+  "status": "ok"
+}
+{
+  "totalResults": 184,
+  "articles": [
+    {
+      "publishedAt": "2021-06-22T18:14:01Z",
+      "author": "The Canadian Press",
+      "urlToImage": "https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2014/07/paul-bernardo.jpg",
+      "description": "\u003col\u003e\u003cli\u003eTeen killer and serial rapist Paul Bernardo again denied parole  National Post\r\n\u003c/li\u003e\u003cli\u003eVictims\u0027 families describe pain, grief before Paul Bernardo denied parole a 2nd time  CBC.ca\r\n\u003c/li\u003e\u003cli\u003eHere\u0027s why teen killer and rapist Paul Bernardo was denied …",
+      "source": {
+        "name": "National Post"
+      },
+      "title": "Teen killer and serial rapist Paul Bernardo again denied parole - National Post",
+      "url": "https://nationalpost.com/news/canada/cp-newsalert-teen-killer-and-serial-rapist-paul-bernardo-again-denied-parole",
+      "content": "The parole board took about an hour before denying Bernardo release, saying they were not persuaded that he no longer posed a substantive risk of reoffending \r\nPaul Bernardo leaves a Kingston Court a… [+7483 chars]"
+    }
+  ],
+  "status": "ok"
+}
+{
+  "totalResults": 15827,
+  "articles": [
+    {
+      "publishedAt": "2021-06-07T08:28:24Z",
+      "author": "https://www.facebook.com/bbcnews",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E454/production/_118825485_c115642b-ec83-4fe5-b1df-6f4faf61b802.jpg",
+      "description": "The depiction of Egerton Ryerson is toppled after a protest at his namesake university in Toronto.",
+      "source": {
+        "name": "BBC News",
+        "id": "bbc-news"
+      },
+      "title": "Egerton Ryerson statue toppled at Canada indigenous school protest",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-57381522",
+      "content": "image captionRyerson was influential in development of Ontario\u0027s public education system\r\nA statue has been toppled at Ryerson University in Toronto at a protest over the recent discovery of a mass g… [+2577 chars]"
+    }
+  ],
+  "status": "ok"
+}
