@@ -1,0 +1,30 @@
+Threadstart1
+Threadstart3
+Threadstart2
+Read from thread1
+4e7b3e00288586ebd08712fdd0374a03	060e732b5b29e8181a18229c7b0b2b5e	1151	T1 City	SP
+ProcessList	nullProcessList	nullProcessList	nullProcessList	nullProcessListnull	show processlistRead from thread2
+4e7b3e00288586ebd08712fdd0374a03	060e732b5b29e8181a18229c7b0b2b5e	1151	T1 City	SP
+ProcessList	nullProcessList	nullProcessListnull	show processlistProcessList	nullProcessList	nullUpdate from thread1
+	null	null	null	nullnull	show processlistRead from thread3
+4e7b3e00288586ebd08712fdd0374a03	060e732b5b29e8181a18229c7b0b2b5e	1151	T1 City	SP
+ProcessList	nullProcessList	nullProcessList	nullProcessListnull	show processlistProcessList	nullUpdate from thread2
+	null	nullnull	show processlist	null	nullUpdate from thread3
+	null	null	nullnull	show processlist	nullCommit from thread1
+Commit from thread3
+Commit from thread2
+Threadstart1
+Threadstart3
+Threadstart2
+Read from thread1
+4e7b3e00288586ebd08712fdd0374a03	060e732b5b29e8181a18229c7b0b2b5e	1151	T3 City	SP
+ProcessList	nullProcessList	nullProcessListnull	show processlistProcessList	nullProcessList	nullRead from thread2
+4e7b3e00288586ebd08712fdd0374a03	060e732b5b29e8181a18229c7b0b2b5e	1151	T3 City	SP
+ProcessList	nullProcessList	nullProcessList	nullProcessListnull	show processlistProcessList	nullUpdate from thread1
+	null	nullnull	show processlist	null	nullRead from thread3
+4e7b3e00288586ebd08712fdd0374a03	060e732b5b29e8181a18229c7b0b2b5e	1151	T1 City	SP
+ProcessList	nullProcessList	nullProcessList	nullProcessList	nullProcessListnull	show processlistUpdate from thread2
+	null	null	nullnull	show processlist	nullUpdate from thread3
+	null	null	null	nullnull	show processlistCommit from thread1
+Commit from thread3
+Commit from thread2
