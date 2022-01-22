@@ -1,0 +1,1509 @@
+[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "Fundy Shore and Annapolis Valley"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "Northumberland Shore"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "Cape Breton Island"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "Eastern Shore"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "Halifax Region"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "South Shore"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "Region"
+      ],
+"properties": {
+"region_name": "Yarmouth and Acadian Shores"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "Province"
+      ],
+"properties": {
+"province_name": "NovaScotia"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Annapolis Basin Look Off"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Anthony"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Bell"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Blomidon"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Blomidon Lookoff"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Caddell Rapids Lookoff"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cape Chignecto"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cape Split"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Amherst Shore"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Central Grove"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Clairmont"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Coldbrook"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cottage Cove"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 21,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Eatonville"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Falls Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 23,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Five Islands"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 24,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lake George"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 25,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lake Midway"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 26,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Londonderry"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 27,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lumsden Pond"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 28,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "MacElmons Pond"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 29,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Mickey Hill"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 30,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Savary"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 31,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Scots Bay"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 32,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Smileys"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 33,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Valleyview"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 34,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Wentworth"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 35,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Arisaig"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 36,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Balmoral Mills"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 37,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Bayfield Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 38,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Beaver Mountain"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 39,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Blue Sea Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 40,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Caribou-Munroes Island"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 41,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Fox Harbour"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 42,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Green Hill"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 43,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Gulf Shore"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 44,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Heather Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 45,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Melmerby Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 46,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Northport Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 47,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Pomquet Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 48,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Powells Point"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 49,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Rushtons Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 50,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Salt Springs"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 51,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Shinimicas"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 52,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Tatamagouche"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 53,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Tidnish Dock"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 54,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Waterside Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 55,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Barrachoish"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 56,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Burnt Island"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 57,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Battery"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 58,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Ben Eoin"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 59,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cabots Landing"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 60,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cape Smokey"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 61,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Dalem Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 62,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Dominion Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 63,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Dundee"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 64,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Groves Point"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 65,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Irish Cove"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 66,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lake O' Law"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 67,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lennox Passage"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 68,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Mabou"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 69,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "MacCormack"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 70,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Mira River"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 71,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "North River"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 72,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Petersfield"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 73,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Point Michaud Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 74,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Pondville Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 75,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Port Hood Station"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 76,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Ross Ferry"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 77,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "St Anns"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 78,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Trout Brook"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 79,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Uisge Bàn Falls"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 80,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "West Mabou Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 81,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Whycocomagh"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 82,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Black Duck Cove"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 83,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Boylston"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 84,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Clam Harbour Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 85,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cole Harbour Heritage Park"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 86,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Dollar Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 87,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Elderbank"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 88,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lawrencetown Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 89,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Lochiel Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 90,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Marie Joseph"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 91,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Martinique Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 92,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Moose River Gold Mines"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 93,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Musquodoboit Valley"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 94,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Port Shoreham Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 95,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Porter's Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 96,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Rainbow Haven Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 97,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Salsman"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 98,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Sherbrooke"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 99,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Spry Bay"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 100,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Taylor Head"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 101,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Tor Bay"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 102,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Crystal Crescent Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 103,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Jerry Lawrence"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 104,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Laurie"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 105,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Long Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 106,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "MacCormacks Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 107,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "McNabs and Lawlor Islands"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 108,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Oakfield"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 109,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Sackville Lakes"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 110,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Bayswater Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 111,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Camerons Brook"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 112,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Card Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 113,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cleveland Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 114,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Cookville"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 115,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "East River"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 116,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Fancy Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 117,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Graves Island"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 118,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Hubbards"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 119,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Port L’Hebert"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 120,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Queensland Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 121,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Rissers Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 122,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Sable River"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 123,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Sand Hills Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 124,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Second Peninsula"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 125,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Summerville Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 126,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Swiss Air Memorial Site (Peggys Cove)"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 127,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Swissair Memorial Site (Bayswater)"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 128,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Ten Mile Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 129,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "The Islands"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 130,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Thomas Raddall"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 131,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "William E. deGarthe"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 132,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Ellenwood Lake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 133,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Glenwood"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 134,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Mavillette Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 135,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Port Maitland Beach"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 136,
+"labels": [
+        "Parks"
+      ],
+"properties": {
+"park_name": "Smugglers Cove"
+      }
+    }
+  }
+]
